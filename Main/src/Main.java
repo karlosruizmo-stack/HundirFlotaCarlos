@@ -42,10 +42,10 @@ public class HundirLaFlota {
             }
         }
 
-        System.out.println("\n🎉 ¡HAS HUNDIDO TODA LA FLOTA!");
+        System.out.println("¡HAS HUNDIDO TODA LA FLOTA!");
         sc.close();
     }
 
-   
+
     }
 
